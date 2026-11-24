@@ -1,0 +1,7 @@
+group,kind,village_candidates,low,high,joined,stop,responsibility
+P1,resident,T1,85,90,A,C,c1
+P2,seasonal,T1|T2,18,42,A,,c2
+P3,resident,T2,63,67,A,,c1
+P4,seasonal,T2|T3,17,35,B,,c2
+P5,resident,T3,40,46,A,,c2
+P6,seasonal,T1|T3,10,28,B,C,c2

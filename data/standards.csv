@@ -1,0 +1,9 @@
+standard,kind,risk,weight
+PRESENT,resident,low,0.30
+PRESENT,resident,high,0.33
+PRESENT,seasonal,low,0.18
+PRESENT,seasonal,high,0.19
+PROTECT,resident,low,0.20
+PROTECT,resident,high,0.31
+PROTECT,seasonal,low,0.19
+PROTECT,seasonal,high,0.30

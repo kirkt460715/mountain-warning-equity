@@ -1,0 +1,71 @@
+{
+  "tables": {
+    "people": [
+      "group",
+      "kind",
+      "village_candidates",
+      "low",
+      "high",
+      "joined",
+      "stop",
+      "responsibility"
+    ],
+    "standards": [
+      "standard",
+      "kind",
+      "risk",
+      "weight"
+    ],
+    "channels": [
+      "season",
+      "village",
+      "channel",
+      "common_point"
+    ],
+    "budget": [
+      "season",
+      "village",
+      "total",
+      "locked",
+      "share_limit",
+      "lowest"
+    ],
+    "appeals": [
+      "id",
+      "group",
+      "village",
+      "reported_season",
+      "only_new_season"
+    ],
+    "weather": [
+      "season",
+      "storm",
+      "village",
+      "risk",
+      "state",
+      "deadline_min"
+    ],
+    "reach": [
+      "storm",
+      "village",
+      "group_options",
+      "state",
+      "count",
+      "proof"
+    ]
+  },
+  "references": [
+    [
+      "reach",
+      "storm",
+      "weather",
+      "storm"
+    ],
+    [
+      "appeals",
+      "group",
+      "people",
+      "group"
+    ]
+  ]
+}

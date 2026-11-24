@@ -1,0 +1,10 @@
+season,village,channel,common_point
+A,T1,radio,R0
+A,T2,sms,R1
+A,T3,walk,R2
+B,T1,radio,R0
+B,T2,radio,R0
+B,T3,walk,R2
+C,T1,sms,R1
+C,T2,radio,R0
+C,T3,walk,R2
